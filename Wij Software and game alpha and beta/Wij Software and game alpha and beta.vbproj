@@ -94,6 +94,7 @@
   <ItemGroup>
     <Content Include="Centerdownloads.aspx" />
     <Content Include="login.aspx" />
+    <Content Include="report a bug.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -130,6 +131,13 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="report a bug.aspx.designer.vb">
+      <DependentUpon>report a bug.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="report a bug.aspx.vb">
+      <DependentUpon>report a bug.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
@@ -156,6 +164,9 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="app_data\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

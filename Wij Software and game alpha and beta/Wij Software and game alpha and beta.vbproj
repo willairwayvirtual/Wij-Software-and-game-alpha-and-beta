@@ -166,7 +166,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="app_data\" />
+    <Folder Include="app_data\downloads\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

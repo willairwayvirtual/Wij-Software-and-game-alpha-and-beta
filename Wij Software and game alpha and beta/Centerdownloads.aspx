@@ -19,6 +19,12 @@
         .auto-style4 {
             height: 30px;
         }
+        .auto-style5 {
+            font-size: x-large;
+        }
+        .auto-style6 {
+            text-align: center;
+        }
     </style>
 </head>
 <body>
@@ -90,6 +96,9 @@
                 <td>&nbsp;</td>
             </tr>
         </table>
+        <p class="auto-style6">
+            <asp:Label ID="Label3" runat="server" CssClass="auto-style5" Text="please deinstall alpha or beta and Download relese copy"></asp:Label>
+        </p>
     </form>
 </body>
 </html>

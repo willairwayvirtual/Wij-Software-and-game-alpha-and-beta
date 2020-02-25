@@ -120,4 +120,13 @@ Partial Public Class Centerdownloads
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents Button15 As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
+    '''Label3 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents Label3 As Global.System.Web.UI.WebControls.Label
 End Class

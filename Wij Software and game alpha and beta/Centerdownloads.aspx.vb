@@ -36,4 +36,8 @@
         Response.TransmitFile(Server.MapPath("app_data/downloads/wav Dispatch.msi"))
         Response.End()
     End Sub
+
+    Private Sub Button17_Click(sender As Object, e As EventArgs) Handles Button17.Click
+        Response.Redirect("client downloads.aspx")
+    End Sub
 End Class

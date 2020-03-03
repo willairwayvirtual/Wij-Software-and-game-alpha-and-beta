@@ -25,11 +25,16 @@
         .auto-style6 {
             text-align: center;
         }
+        .auto-style7 {
+            text-align: left;
+        }
     </style>
 </head>
 <body>
     <form id="form1" runat="server">
+        <div class="auto-style7">
         <asp:Button ID="Button8" runat="server" Text="report a bug" Width="280px" />
+            <asp:Button ID="Button17" runat="server" Text="client downloads" Width="324px" />
         <div>
         </div>
         <asp:Label ID="Label1" runat="server" Text="alpha"></asp:Label>
@@ -56,7 +61,7 @@
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td class="auto-style3">wav Dispatch</td>
+                <td class="auto-style3">wav Dispatc</td>
                 <td class="auto-style4">
                     <asp:Button ID="Button11" runat="server" Text="Download " Width="582px" />
                 </td>
@@ -99,6 +104,7 @@
         <p class="auto-style6">
             <asp:Label ID="Label3" runat="server" CssClass="auto-style5" Text="please deinstall alpha or beta and Download relese copy"></asp:Label>
         </p>
+        </div>
     </form>
 </body>
 </html>

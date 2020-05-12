@@ -31,6 +31,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
+        <asp:Button ID="Button8" runat="server" Text="report a bug" Width="280px" />
         </div>
         <div>
         </div>
@@ -314,6 +315,8 @@
         <p class="auto-style6">
             <asp:Label ID="Label12" runat="server" CssClass="auto-style5" Text="please deinstall alpha or beta and Download relese copy"></asp:Label>
         </p>
+        <asp:Button ID="Button41" runat="server" style="text-align: center" Text="next" Width="365px" />
+        <asp:Button ID="Button42" runat="server" Text="previus" Width="695px" />
     </form>
 </body>
 </html>

@@ -30,7 +30,7 @@ Public Class login
         If result > 0 Then
 
 
-            Response.Redirect("Centerdownloads.aspx")
+            Response.Redirect("choosedownload.aspx")
         Else
             Label2.Text = "YOU DONT EXIST"
         End If

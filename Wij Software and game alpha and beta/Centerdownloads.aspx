@@ -34,7 +34,6 @@
     <form id="form1" runat="server">
         <div class="auto-style7">
         <asp:Button ID="Button8" runat="server" Text="report a bug" Width="280px" />
-            <asp:Button ID="Button17" runat="server" Text="client downloads" Width="324px" />
         <div>
         </div>
         <asp:Label ID="Label1" runat="server" Text="alpha"></asp:Label>

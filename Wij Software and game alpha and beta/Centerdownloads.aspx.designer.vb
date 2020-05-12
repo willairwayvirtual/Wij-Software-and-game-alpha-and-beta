@@ -32,15 +32,6 @@ Partial Public Class Centerdownloads
     Protected WithEvents Button8 As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
-    '''Button17 control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents Button17 As Global.System.Web.UI.WebControls.Button
-
-    '''<summary>
     '''Label1 control.
     '''</summary>
     '''<remarks>

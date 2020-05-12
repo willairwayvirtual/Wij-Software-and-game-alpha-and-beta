@@ -93,6 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Centerdownloads.aspx" />
+    <Content Include="choosedownload.aspx" />
     <Content Include="client downloads.aspx" />
     <Content Include="login.aspx" />
     <Content Include="report a bug.aspx" />
@@ -105,6 +106,13 @@
     </Compile>
     <Compile Include="Centerdownloads.aspx.vb">
       <DependentUpon>Centerdownloads.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="choosedownload.aspx.designer.vb">
+      <DependentUpon>choosedownload.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="choosedownload.aspx.vb">
+      <DependentUpon>choosedownload.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="client downloads.aspx.designer.vb">

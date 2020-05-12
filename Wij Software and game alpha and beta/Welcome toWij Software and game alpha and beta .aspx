@@ -5,6 +5,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
+    <style type="text/css">
+        #form1 {
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -15,6 +20,10 @@
             <asp:Label ID="Label2" runat="server" style="font-size: xx-large; text-align: center; background-color: #66FF66" Text="Wij Software and game alpha and beta  group"></asp:Label>
         </p>
         <asp:Button ID="Button1" runat="server" Height="88px" Text="apply to Software and game alpha and beta  group" Width="832px" />
+        <br />
+        <br />
+        <br />
+        <asp:Label ID="Label4" runat="server" BackColor="#3366CC" Text="made by Wij Software and web and game development company "></asp:Label>
     </form>
 </body>
 </html>

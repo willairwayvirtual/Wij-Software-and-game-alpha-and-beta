@@ -19,7 +19,7 @@
         <p>
             <asp:Label ID="Label2" runat="server" style="font-size: xx-large; text-align: center; background-color: #66FF66" Text="Wij Software and game alpha and beta  group"></asp:Label>
         </p>
-        <asp:Button ID="Button1" runat="server" Height="88px" Text="apply to Software and game alpha and beta  group" Width="832px" />
+        <asp:Button ID="Button1" runat="server" Height="88px" Text="apply to wij Software and game alpha and beta  group" Width="832px" />
         <br />
         <br />
         <br />

@@ -14,7 +14,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:Label ID="Label1" runat="server" style="font-size: xx-large; text-align: center; background-color: #66FF66" Text="Welcome toWij Software and game alpha and beta  "></asp:Label>
+            <asp:Label ID="Label1" runat="server" style="font-size: xx-large; text-align: center; background-color: #66FF66" Text="Welcome toWij Software and game alpha and beta .com"></asp:Label>
         </div>
         <p>
             <asp:Label ID="Label2" runat="server" style="font-size: xx-large; text-align: center; background-color: #66FF66" Text="Wij Software and game alpha and beta  group"></asp:Label>

@@ -97,6 +97,7 @@
     <Content Include="login.aspx" />
     <Content Include="report a bug.aspx" />
     <Content Include="Web.config" />
+    <Content Include="Welcome toWij Software and game alpha and beta .aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Centerdownloads.aspx.designer.vb">
@@ -144,6 +145,13 @@
     </Compile>
     <Compile Include="report a bug.aspx.vb">
       <DependentUpon>report a bug.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Welcome toWij Software and game alpha and beta .aspx.designer.vb">
+      <DependentUpon>Welcome toWij Software and game alpha and beta .aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome toWij Software and game alpha and beta .aspx.vb">
+      <DependentUpon>Welcome toWij Software and game alpha and beta .aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
   </ItemGroup>

@@ -65,7 +65,9 @@
             <div>
                 <div class="auto-style10">
                     Welcome toWij Software and game alpha and beta please enter you username and password <br />
-                    if you have Willairways Virtual<span class="auto-style18">Account&nbsp; please enter you username and password </span>
+                    if you have Willairways Virtual<span class="auto-style18">Account&nbsp; please enter you username and password&nbsp;
+                    <br />
+                    </span>
                 </div>
             </div>
             <table class="auto-style2">
@@ -97,10 +99,12 @@
             <asp:Button ID="Button1l" runat="server" BackColor="Blue" CssClass="auto-style6" ForeColor="White" Height="41px" Text="Login" Width="315px" />
         </p>
         <p class="auto-style15">
-            please go to www.<span style="color: rgb(36, 41, 46); font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: pre; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">willairwayvirtual.com/ResetPassword</span></p>
-        <p class="auto-style13">
-            <span class="auto-style6">please go to <a href="http://www.willairwayvirtual.com/Create">www.</a></span><span class="auto-style6" style="color: rgb(36, 41, 46); font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: pre; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"><a href="http://www.willairwayvirtual.com/Create">willairwayvirtual.com</a></span><a href="http://www.willairwayvirtual.com/Create"><span class="auto-style18" style="color: rgb(36, 41, 46); font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: pre; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">/</span></a><span class="auto-style18">Create 
-            an Account</span></p>
+            please go to <a href="http://www.willairwayvirtual.com/ResetPassword">www.<span style="color: rgb(36, 41, 46); font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: pre; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">willairwayvirtual.com/ResetPassword</span></a></p>
+        <p class="auto-style15">
+            <asp:Label ID="Label4" runat="server" BackColor="#3366CC" Text="made by Wij Software and web and game development company "></asp:Label>
+        </p>
+        <p class="auto-style15">
+            &nbsp;</p>
     </form>
 </body>
 </html>

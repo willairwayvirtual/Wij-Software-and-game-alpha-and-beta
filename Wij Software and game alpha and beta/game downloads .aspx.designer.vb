@@ -11,7 +11,7 @@ Option Strict On
 Option Explicit On
 
 
-Partial Public Class client_downloads_aspx
+Partial Public Class game_downloads_aspx
 
     '''<summary>
     '''form1 control.

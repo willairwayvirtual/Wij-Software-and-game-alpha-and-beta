@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="client downloads.aspx.vb" Inherits="Wij_Software_and_game_alpha_and_beta.client_downloads_aspx" %>
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="game downloads .aspx.vb" Inherits="Wij_Software_and_game_alpha_and_beta.game_downloads_aspx" %>
 
 <!DOCTYPE html>
 
@@ -32,6 +32,8 @@
 <body>
     <form id="form1" runat="server">
         <div>
+        </div>
+        <div>
         <asp:Button ID="Button8" runat="server" Text="report a bug" Width="280px" />
         </div>
         <div>
@@ -39,7 +41,7 @@
         <asp:Label ID="Label1" runat="server" Text="alpha"></asp:Label>
         <table class="auto-style1">
             <tr>
-                <td class="auto-style2">&nbsp;</td>
+                <td class="auto-style2">pgrewfdiio34</td>
                 <td>
                     <asp:Button ID="Button1" runat="server" Text="Download " Width="582px" />
                 </td>
@@ -72,7 +74,7 @@
         </p>
         <table class="auto-style1">
             <tr>
-                <td class="auto-style2">&nbsp;</td>
+                <td class="auto-style2">pgrewfdiio34</td>
                 <td>
                     <asp:Button ID="Button12" runat="server" Text="Download " Width="582px" />
                 </td>
